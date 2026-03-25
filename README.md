@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**majiajun1/majiajun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀我的名字叫马家骏  广东工业大学26届硕士，即将毕业成为社畜啦 🚀
 
 Here are some ideas to get you started:
 
