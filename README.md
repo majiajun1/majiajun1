@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mason Ma (马家骏) 👋</h1>
 <p align="center">
-Android System/Framework Oriented Developer · Kotlin/Java · IPC/AIDL · Coroutines · AndServer · DevOps Friendly
+Android / Java  Developer · Kotlin/Java · IPC/AIDL · Spring · Flutter · Gradle / Maven
 </p>
 
 <p align="center">
