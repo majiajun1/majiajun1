@@ -30,14 +30,14 @@ Android / Java  Developer · Kotlin/Java · IPC/AIDL · Spring · Flutter · Gra
 ---
 
 ## 🛠 技术栈
-- Android：Kotlin、Java、MVVM、AIDL、Binder、Handler/Looper、Coroutines/Flow、WorkManager、Room
+- Android：Kotlin、Java、MVVM、AIDL、Binder、Handler/Looper、Coroutines
 - 后端与中间件：SpringBoot、MySQL/SQL Server、Redis、RabbitMQ、Sentinel、XXL-Job、ShardingSphere
-- 工程与工具：Gradle、Git/GitLab、Jenkins、Logcat/Systrace、LeakCanary、SkyWalking
+- 工程与工具：Gradle、Git/GitLab、Jenkins、Logcat、SkyWalking
 - 网络与服务：OkHttp/Retrofit、AndServer、RESTful、协议标准化/序列化
 
 ---
 
-## 📌 代表性经历
+## 📌 实习经历
 - CVTE（MAXHUB）｜Android 开发（系统应用/投屏盒子）
   - 设计并实现跨进程服务（AIDL）封装底层 BYOM/投屏参数能力，对外暴露安全接口
   - 构建 AndServer 端侧轻服务与 REST API，打通远程配置管理链路
@@ -54,16 +54,7 @@ Android / Java  Developer · Kotlin/Java · IPC/AIDL · Spring · Flutter · Gra
 
 ---
 
-## 🧪 正在进行的项目（In Progress）
-- Android 设备配置中心（Device Provisioning Center）
-  - 定位：面向车机/智能盒子/IoT 的端侧系统级配置平台
-  - 能力：AIDL 服务暴露底层能力 · AndServer 提供 /api/config/apply 等接口 · USB 自动化运维流程
-  - 指标：配置下发 P95 ≤ 150ms｜USB 插入到配置生效 ≤ 3s｜50 并发下发无冲突/无崩溃
-  - 技术：Kotlin、Coroutines/Flow、AIDL/Binder、AndServer、Room、WorkManager、LeakCanary
-
-> 代码仓库即将开源，包含架构图、序列图、压测脚本与性能数据。
-
----
+ 
 
 ## 🏆 奖项与论文
 - ICONIP 2025 国际会议论文（一作）
