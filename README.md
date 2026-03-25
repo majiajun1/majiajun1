@@ -13,8 +13,8 @@ Android / Java  Developer · Kotlin/Java · IPC/AIDL · Spring · Flutter · Gra
 ---
 
 ## 👨‍💻 关于我
-- 广东工业大学 · 计算机技术硕士（2023–2026）｜ICONIP 2025 一作｜数学建模国二｜学业一等奖
-- 专注 Android 系统级应用与端云交互：IPC（AIDL/Binder）、AndServer 端侧轻服务、USB 运维自动化、性能与稳定性治理
+- 广东工业大学 · 计算机技术硕士（2023–2026）｜ICONIP 2025 一作｜2023华为杯研究生数学建模国二｜2023-2024学年学业一等奖
+- 熟悉 Android 应用开发，想成为大厂客户端开发者（全栈也行
 - 拥有后端高并发背景（SpringBoot/Redis/RabbitMQ），擅长将服务端的高可用设计迁移到移动端复杂场景
 - 熟练使用工程化与 AI 工具（Gradle、GitLab、Jenkins、Trae 等）提升开发和排障效率
 
