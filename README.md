@@ -21,11 +21,8 @@ Android / Java  Developer · Kotlin/Java · IPC/AIDL · Spring · Flutter · Gra
 ---
 
 ## 🚀 我能带来的价值
-- 系统级应用开发与跨进程通信（AIDL/Binder），安全稳定地暴露底层能力
-- 协程/Flow + 结构化并发，处理中大型异步任务与 I/O 密集流程，避免 ANR
-- AndServer 端侧服务 + REST API，构建设备远程配置/状态查询能力
-- 并发一致性与缓存策略，解决高并发写入/读取冲突，显著优化 P95 延迟
-- 构建治理（Gradle 依赖冲突、CI/CD）、Crash/ANR 分析、内存泄漏定位
+-  结合Vibe Coding的可前可后可全栈的高素质牛马
+ 
 
 ---
 
