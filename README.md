@@ -21,7 +21,7 @@ Android / Java  Developer · Kotlin/Java · IPC/AIDL · Spring · Flutter · Gra
 ---
 
 ## 🚀 我能带来的价值
--  结合Vibe Coding的可前可后可全栈的高素质牛马
+-  结合Vibe Coding的可前可后可上可下的高素质全栈牛马（
  
 
 ---
